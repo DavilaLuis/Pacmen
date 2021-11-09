@@ -7,7 +7,7 @@ You can click on *Restart Game* to start over again.
 
 ## License :page_facing_up:
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE) para detalles
 
 ## Special Thanks :gift:
 * MITxPRO  **Professional Certificate in Coding: Full Stack Development with MERN**
